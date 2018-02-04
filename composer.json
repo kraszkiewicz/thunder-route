@@ -1,0 +1,13 @@
+{
+    "name": "kraszkiewicz/thunder-route",
+    "description": "PHP simple and fast MVC router",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kamil Raszkiewicz",
+            "email": "filtereq@gmail.com"
+        }
+    ],
+    "require": {}
+}
